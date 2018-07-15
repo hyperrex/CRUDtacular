@@ -51,11 +51,18 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
+# Yarn
 .yarn-integrity
+yarn.lock
 
 # dotenv environment variables file
 .env
 
 # next.js build output
 .next
+
+# Macintosh Desktop Services Store
+.DS_Store
+
+# Package-lock file for JSON
+package-lock.json
